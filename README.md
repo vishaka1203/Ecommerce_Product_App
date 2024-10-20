@@ -18,31 +18,30 @@ This is an Ecommerce Product App built using React Native with Expo and Tailwind
 Below are some screenshots of the website:
 
 ### Welcome Page
-![Welcome Page](docs/img-1.png)
+![Welcome Page](docs/welcome.png)
 
 ### Home Page
-![Home Page ](docs/img-2.png)
+![Home Page ](docs/home.png)
 
 ### Explore Tab
-![Explore Products](./docs/img-7.png)
+![Explore Products](./docs/explore.png)
 
 ### Click to view the Product
-![View Product](./docs/img-4.png)
+![View Product](./docs/card-desc.png)
 
 ### Categories Tab
-![View Categories](./docs/img-5.png)
+![View Categories](./docs/categories.png)
 
 ### Cart Tab
-![Your Cart](./docs/img-6.png)
+![Your Cart](./docs/cart.png)
 
 ### Account Tab
-![User](./docs/img-7.png)
-
+![User](./docs/account.png)
 
 
 
 ## Installation
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
-   git clone https://github.com/vishaka1203/URL-Shortener.git
+   git clone https://github.com/yourusername/Ecommerce_Product_App.git
