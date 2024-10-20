@@ -17,17 +17,29 @@ This is an Ecommerce Product App built using React Native with Expo and Tailwind
 
 Below are some screenshots of the website:
 
-### Home Page
+### Welcome Page
 ![Welcome Page](docs/img-1.png)
 
-### URL Shortening 
-![URL Shortening ](./docs/shorturl.png)
+### Home Page
+![Home Page ](docs/img-2.png)
 
-### QR Code Generation 
-![QR Code Generation](./docs/QRcodegeneration.png)
+### Explore Tab
+![Explore Products](./docs/img-7.png)
 
-### Download QR Code and Scan to redirect to original link
-![URL Management](./docs/downloadqr.png)
+### Click to view the Product
+![View Product](./docs/img-4.png)
+
+### Categories Tab
+![View Categories](./docs/img-5.png)
+
+### Cart Tab
+![Your Cart](./docs/img-6.png)
+
+### Account Tab
+![User](./docs/img-7.png)
+
+
+
 
 ## Installation
 
