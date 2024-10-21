@@ -17,9 +17,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/logo-1.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.vishaka1203.Ecommerce_Product_App"
     },
     "web": {
       "bundler": "metro",
@@ -31,6 +32,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c85b4f20-d85e-4591-92bc-a65bc92be23e"
+      }
     }
   }
 }

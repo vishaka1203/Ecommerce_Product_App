@@ -1,8 +1,8 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
-  // NOTE: Update this to include the paths to all of your component files.
-  content: ["./app/**/*.{js,jsx,ts,tsx}"],
-  presets: [require("nativewind/preset")],
+  content: [
+    './App.{js,jsx,ts,tsx}', // For React Native
+    './src/**/*.{js,jsx,ts,tsx}', // Adjust this path according to your project structure
+  ],
   theme: {
     extend: {},
   },
